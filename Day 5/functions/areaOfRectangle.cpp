@@ -1,0 +1,1 @@
+// write a funtion that takes length and width as an input return and print the area of rectangle
