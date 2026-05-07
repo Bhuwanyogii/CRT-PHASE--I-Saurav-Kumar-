@@ -1,0 +1,7 @@
+/*rite a cpp program to create a student management system where we store and display student details:
+1. name
+2. rollno
+3. regno
+4. email id
+5. phone no
+6. marks using parametrised and default constructor*/
