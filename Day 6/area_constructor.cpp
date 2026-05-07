@@ -6,11 +6,12 @@ public:
     int width;
     float r;
 
-    //default
+    //default constructor
     area(){
         length = 0;
         width = 0;
     }
+    //parameterized constructor
     area(int l, int w){
         length = l;
         width = w;
